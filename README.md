@@ -355,4 +355,28 @@
 <br/>
 <br/>
 
-<img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c/project/57a9174f-be89-46fd-b1c9-d851ff056d97.svg" />
+<div align="center">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/montasim/status?style=social">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/montasim/status?style=social">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/status?style=social">
+    <img src="https://wakatime.com/badge/user/bb224c90-7cb7-4c45-953e-a9e26c1cb06c/project/57a9174f-be89-46fd-b1c9-d851ff056d97.svg"/>
+    <img alt="build update badge" src="https://img.shields.io/github/actions/workflow/status/montasim/montasim/update-readme.yml"/>
+    <img alt="language badge" src="https://img.shields.io/github/languages/count/montasim/status"/>
+    <img alt="top language badge" src="https://img.shields.io/github/languages/top/montasim/status">
+    <img alt="goto badge" src="https://img.shields.io/github/search/montasim/status/goto">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/montasim/status">
+    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/status">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/status">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/montasim/status/total">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/montasim/status">
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed-raw/montasim/status">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/montasim/status">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/montasim/status">
+    <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/open/montasim/status">
+    <img alt="GitHub milestones" src="https://img.shields.io/github/milestones/closed/montasim/status">
+    <img alt="GitHub" src="https://img.shields.io/github/license/montasim/status">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/status">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/status">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/status">
+    <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/montasim/status">
+</div>
