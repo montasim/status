@@ -346,7 +346,6 @@
 
 <div align="center">
     <h2>Weekly Statistics<h2>
-    <br/>
     <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
     <a href="https://wakatime.com/@montasim" title="Data update every midnight">
         <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
