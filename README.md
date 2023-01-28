@@ -296,7 +296,7 @@
 
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
-        <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/a-coders-diary">
         <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=dark" alt="repository badge" />
