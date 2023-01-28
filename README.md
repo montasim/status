@@ -22,6 +22,32 @@
         </tr>
     </thead>
     <tbody>
+        <!-- project status start -->
+        <tr>
+            <td>
+                <a href="https://github.com/montasim/status">
+                    <b>status</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/status"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/status"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/status"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/status"/>
+            </td>
+            <td>
+                <a href="https://github.com/montasim/status">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/status"/>
+                </a>
+            </td>
+        </tr>
+        <!-- project status start -->
         <!-- project montasim start -->
         <tr>
             <td>
@@ -262,11 +288,11 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/montasim/montasim">
-        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/status">
+        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=status&theme=dark" alt="repository badge" />
     </a>
-    <a href="https://github.com/montasim/Technofire">
-        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/montasim">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark" alt="repository badge" />
     </a>
 </div>
 
@@ -308,6 +334,9 @@
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
         <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
+    </a>
+    <a href="https://github.com/montasim/Technofire">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark" alt="repository badge" />
     </a>
 </div>
 
