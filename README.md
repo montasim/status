@@ -265,8 +265,8 @@
     <a href="https://github.com/montasim/montasim">
         <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark" alt="repository badge" />
     </a>
-    <a align="right" href="https://github.com/montasim/Technofire">
-        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/Technofire">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark" alt="repository badge" />
     </a>
 </div>
 
@@ -276,8 +276,8 @@
     <a href="https://github.com/montasim/montasim-dev">
         <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=dark" alt="repository badge" >
     </a>
-    <a align="right" href="https://github.com/montasim/manufacturer-website-client">
-        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/manufacturer-website-client">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=dark" alt="repository badge" />
     </a>
 </div>
 
@@ -287,8 +287,8 @@
     <a href="https://github.com/montasim/manufacturer-website-server">
         <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=dark" alt="repository badge" >
     </a>
-    <a align="right" href="https://github.com/montasim/warehouse-management-client">
-        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/warehouse-management-client">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=dark" alt="repository badge" />
     </a>
 </div>
 
@@ -298,8 +298,8 @@
     <a href="https://github.com/montasim/inventory-management-system-server">
         <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
     </a>
-    <a align="right" href="https://github.com/montasim/a-coders-diary">
-        <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=dark" alt="repository badge" />
+    <a href="https://github.com/montasim/a-coders-diary">
+        <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=dark" alt="repository badge" />
     </a>
 </div>
 
