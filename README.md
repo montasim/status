@@ -257,3 +257,19 @@
         </tr>
     </tbody>
 </table>
+
+<br/>
+<br/>
+
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark"/>
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark"/>
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=dark"/>
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=dark">
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=dark">
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=dark">
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark"/>
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=dark"/>
+<img alt="repository badge" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary-server=dark"/>
+
+<br/>
+<br/>
