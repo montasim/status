@@ -1,3 +1,4 @@
+<!-- open source projects summary start -->
 <table>
     <thead align="center">
         <tr border: none;>
@@ -283,10 +284,12 @@
         </tr>
     </tbody>
 </table>
+<!-- open source projects summary end -->
 
 <br/>
 <br/>
 
+<!-- open source projects details start -->
 <div align="center">
     <a href="https://github.com/montasim/status">
         <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
@@ -339,11 +342,13 @@
         <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
+<!-- open source projects details end -->
 
 <br/>
 <br/>
 <br/>
 
+<!-- weekly progress status start -->
 <div align="center">
     <h2>Weekly Statistics<h2>
     <img width=325 src="https://github-readme-stats-mu-jet.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
@@ -351,10 +356,12 @@
         <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
     </a>
 </div>
+<!-- weekly progress status end -->
 
 <br/>
 <br/>
 
+<!-- repository summary badges start -->
 <div align="center">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/montasim/status?style=social">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/montasim/status?style=social">
@@ -380,3 +387,13 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/status">
     <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/montasim/status">
 </div>
+<!-- repository summary badges end -->
+
+<br/>
+<br/>
+
+<!-- build with badges start -->
+<div align="center">
+    <img style="margin-right: 6px" alt="markdown badge" src="https://img.shields.io/badge/BUILD%20WITH-LOVE-E10098?style=for-the-badge&logoColor=white">
+</div>
+<!-- build with badges end -->
