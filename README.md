@@ -402,7 +402,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 <!-- connect with me start -->
 <h2 align="center" uppercase> 
@@ -456,7 +455,6 @@
 <!-- social media links end -->
 <!-- connect with me end -->
 
-<br/>
 <br/>
 <br/>
 <br/>
