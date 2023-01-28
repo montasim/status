@@ -394,8 +394,9 @@
 
 <!-- build with badges start -->
 <div align="center">
-    <img style="margin-right: 6px" alt="markdown badge" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-    <img style="margin-right: 6px" alt="build with love badge" src="https://img.shields.io/badge/BUILD%20WITH-LOVE-E10098?style=for-the-badge&logoColor=white">
+    <img style="margin-right: 6px" alt="uses badges badge" src="https://forthebadge.com/images/badges/uses-badges.svg">
+    <img style="margin-right: 6px" alt="build with markdown badge" src="https://forthebadge.com/images/badges/made-with-markdown.svg">
+    <img style="margin-right: 6px" alt="build with love badge" src="https://forthebadge.com/images/badges/built-with-love.svg">
 </div>
 <!-- build with badges end -->
 
