@@ -262,28 +262,28 @@
 <br/>
 
 <div align="center">
-    <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark" alt="repository badge" />
+    <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim&theme=dark" alt="repository badge" />
     <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=dark" alt="repository badge" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=dark" alt="repository badge" >
+    <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=dark" alt="repository badge" >
     <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=dark" alt="repository badge" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=dark" alt="repository badge" >
+    <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=dark" alt="repository badge" >
     <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=dark" alt="repository badge" />
 </div>
 
 <br/>
 
 <div align="center">
-    <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
+    <img width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=dark" alt="repository badge" >
     <img align="right" width="396" src="https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=dark" alt="repository badge" />
 </div>
 
