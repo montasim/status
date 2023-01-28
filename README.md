@@ -289,10 +289,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/status">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
     <a href="https://github.com/montasim/montasim">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -300,10 +300,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/montasim-dev">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/manufacturer-website-client">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -311,10 +311,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/manufacturer-website-server">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/warehouse-management-client">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -322,10 +322,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/a-coders-diary">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -333,10 +333,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/Technofire">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -347,7 +347,7 @@
     <h2>Weekly Coding Activity</h2>
     <br/>
     <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+        <img src="https://github-readme-stats-mu-jet.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
     </a>
 </div>
 
