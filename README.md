@@ -405,9 +405,9 @@
 <br/>
 
 <!-- connect with me start -->
-<h2 align="center" uppercase> 
-    :mailbox_with_mail: FEEL FREE TO CONTACT ME ANYTIME 
-</h2>
+<div align="center"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1&pause=1000&repeat=false&width=410&lines=%F0%9F%93%AA+%F0%9D%97%99%F0%9D%97%98%F0%9D%97%98%F0%9D%97%9F+%F0%9D%97%99%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%98+%F0%9D%97%A7%F0%9D%97%A2+%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%96%F0%9D%97%A7+%F0%9D%97%A0%F0%9D%97%98+%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%AC%F0%9D%97%A7%F0%9D%97%9C%F0%9D%97%A0%F0%9D%97%98" alt="Typing SVG" />
+</div>
 
 <br/>
 
