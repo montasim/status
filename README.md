@@ -43,8 +43,8 @@
                 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/web-developer-portfolio"/>
             </td>
             <td>
-                <a href="https://github.com/montasim/web-developer-portfolio">
-                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/web-developer-portfolio"/>
+                <a href="https://montasim.github.io/web-developer-portfolio/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/web-developer-portfolio"/>
                 </a>
             </td>
         </tr>
@@ -69,8 +69,8 @@
                 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/developer-portfolio"/>
             </td>
             <td>
-                <a href="https://github.com/montasim/developer-portfolio">
-                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/developer-portfolio"/>
+                <a href="https://montasim.github.io/developer-portfolio/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/developer-portfolio"/>
                 </a>
             </td>
         </tr>
