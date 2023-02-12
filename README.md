@@ -23,6 +23,58 @@
         </tr>
     </thead>
     <tbody>
+        <!-- project web-developer-portfolio start -->
+        <tr>
+            <td>
+                <a href="https://github.com/montasim/web-developer-portfolio">
+                    <b>web-developer-portfolio</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/web-developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/web-developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/web-developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/web-developer-portfolio"/>
+            </td>
+            <td>
+                <a href="https://github.com/montasim/web-developer-portfolio">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/web-developer-portfolio"/>
+                </a>
+            </td>
+        </tr>
+        <!-- project web-developer-portfolio start -->
+        <!-- project developer-portfolio start -->
+        <tr>
+            <td>
+                <a href="https://github.com/montasim/developer-portfolio">
+                    <b>developer-portfolio</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/developer-portfolio"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/developer-portfolio"/>
+            </td>
+            <td>
+                <a href="https://github.com/montasim/developer-portfolio">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com/montasim/developer-portfolio"/>
+                </a>
+            </td>
+        </tr>
+        <!-- project developer-portfolio start -->
         <!-- project status start -->
         <tr>
             <td>
@@ -290,6 +342,15 @@
 <br/>
 
 <!-- open source projects details start -->
+<div align="center">
+    <a href="https://github.com/montasim/web-developer-portfolio">
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=web-developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a>
+    <a href="https://github.com/montasim/developer-portfolio">
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a>
+</div>
+
 <div align="center">
     <a href="https://github.com/montasim/status">
         <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
