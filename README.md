@@ -23,6 +23,32 @@
         </tr>
     </thead>
     <tbody>
+        <!-- project simple-portfolio start -->
+        <tr>
+            <td>
+                <a href="https://github.com/montasim/simple-portfolio">
+                    <b>simple-portfolio</b>
+                </a>
+            </td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/simple-portfolio"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/simple-portfolio"/>
+            </td>
+            <td>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/simple-portfolio"/>
+            </td>
+            <td>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/simple-portfolio"/>
+            </td>
+            <td>
+                <a href="https://montasim.github.io/simple-portfolio/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/simple-portfolio"/>
+                </a>
+            </td>
+        </tr>
+        <!-- project web-developer-portfolio start -->
         <!-- project web-developer-portfolio start -->
         <tr>
             <td>
@@ -342,6 +368,14 @@
 <br/>
 
 <!-- open source projects details start -->
+<div align="center">
+    <a href="https://github.com/montasim/simple-portfolio">
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a>
+</div>
+
+<br/>
+
 <div align="center">
     <a href="https://github.com/montasim/web-developer-portfolio">
         <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=web-developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
