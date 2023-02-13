@@ -394,11 +394,11 @@
 
 <!-- open source projects details start -->
 <div align="center">
-    <a href="https://github.com/montasim/simple-portfolio">
-        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
-    </a>
     <a href="https://github.com/montasim/simple-portfolio-2">
-        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a>
+    <a href="https://github.com/montasim/simple-portfolio">
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
