@@ -23,32 +23,32 @@
         </tr>
     </thead>
     <tbody>
-        <!-- project simple-portfolio-2 start -->
+        <!-- project eat-fresh start -->
         <tr>
             <td>
-                <a href="https://github.com/montasim/simple-portfolio-2">
-                    <b>simple-portfolio-2</b>
+                <a href="https://github.com/montasim/eat-fresh">
+                    <b>eat-fresh</b>
                 </a>
             </td>
             <td>
-                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/simple-portfolio-2"/>
+                <img alt="Stars" src="https://img.shields.io/github/stars/montasim/eat-fresh"/>
             </td>
             <td>
-                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/simple-portfolio-2"/>
+                <img alt="Forks" src="https://img.shields.io/github/forks/montasim/eat-fresh"/>
             </td>
             <td>
-                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/simple-portfolio-2"/>
+                <img alt="Last Commits" src="https://img.shields.io/github/last-commit/montasim/eat-fresh"/>
             </td>
             <td>
-                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/simple-portfolio-2"/>
+                <img alt="Repo Size" src="https://img.shields.io/github/repo-size/montasim/eat-fresh"/>
             </td>
             <td>
-                <a href="https://montasim.github.io/simple-portfolio-2/">
-                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/simple-portfolio-2"/>
+                <a href="https://montasim.github.io/eat-fresh/">
+                    <img alt="Live Link" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fmontasim.github.io/eat-fresh"/>
                 </a>
             </td>
         </tr>
-        <!-- project web-developer-portfolio-2 start -->
+        <!-- project eat-fresh end -->
         <!-- project simple-portfolio start -->
         <tr>
             <td>
@@ -74,6 +74,7 @@
                 </a>
             </td>
         </tr>
+        <!-- project simple-portfolio end -->
         <!-- project web-developer-portfolio start -->
         <tr>
             <td>
@@ -99,7 +100,7 @@
                 </a>
             </td>
         </tr>
-        <!-- project web-developer-portfolio start -->
+        <!-- project web-developer-portfolio end -->
         <!-- project developer-portfolio start -->
         <tr>
             <td>
@@ -125,7 +126,7 @@
                 </a>
             </td>
         </tr>
-        <!-- project developer-portfolio start -->
+        <!-- project developer-portfolio end -->
         <!-- project status start -->
         <tr>
             <td>
@@ -151,7 +152,7 @@
                 </a>
             </td>
         </tr>
-        <!-- project status start -->
+        <!-- project status end -->
         <!-- project montasim start -->
         <tr>
             <td>
@@ -177,7 +178,7 @@
                 </a>
             </td>
         </tr>
-        <!-- project montasim start -->
+        <!-- project montasim end -->
         <!-- project Technofire start -->
         <tr>
             <td>
@@ -393,6 +394,17 @@
 <br/>
 
 <!-- open source projects details start -->
+<div align="center">
+    <a href="https://github.com/montasim/eat-fresh">
+        <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=eat-fresh&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a>
+    <!-- <a href="https://github.com/montasim/simple-portfolio">
+        <img align="right" width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+    </a> -->
+</div>
+
+<br/>
+
 <div align="center">
     <a href="https://github.com/montasim/simple-portfolio-2">
         <img width="396" src="https://github-readme-stats-mu-jet.vercel.app/api/pin/?username=montasim&repo=simple-portfolio-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
