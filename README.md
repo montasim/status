@@ -396,10 +396,10 @@
 <!-- open source projects details start -->
 <div align="center">
     <a href="https://github.com/montasim/eat-fresh">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=eat-fresh&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=eat-fresh&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
     <!-- <a href="https://github.com/montasim/simple-portfolio">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a> -->
 </div>
 
@@ -407,10 +407,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/simple-portfolio-2">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=simple-portfolio-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=simple-portfolio-2&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
     <a href="https://github.com/montasim/simple-portfolio">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=simple-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -418,10 +418,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/web-developer-portfolio">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=web-developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=web-developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
     <a href="https://github.com/montasim/developer-portfolio">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=developer-portfolio&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -429,10 +429,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/status">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=status&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
     <a href="https://github.com/montasim/montasim">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=montasim&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -440,10 +440,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/montasim-dev">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=montasim-dev&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/manufacturer-website-client">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -451,10 +451,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/manufacturer-website-server">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=manufacturer-website-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/warehouse-management-client">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=warehouse-management-client&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -462,10 +462,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/a-coders-diary">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=a-coders-diary&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 
@@ -473,10 +473,10 @@
 
 <div align="center">
     <a href="https://github.com/montasim/inventory-management-system-server">
-        <img width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
+        <img width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=inventory-management-system-server&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" >
     </a>
     <a href="https://github.com/montasim/Technofire">
-        <img align="right" width="396" src="https://github-readme-stats-montasim.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
+        <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=Technofire&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
     </a>
 </div>
 <!-- open source projects details end -->
@@ -488,9 +488,9 @@
 <!-- weekly progress status start -->
 <div align="center">
     <h2>Weekly Statistics<h2>
-    <img width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
+    <img width=325 src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
     <a href="https://wakatime.com/@montasim" title="Data update every midnight">
-        <img src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
+        <img src="https://github-readme-stats-mnex.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
     </a>
 </div>
 <!-- weekly progress status end -->
