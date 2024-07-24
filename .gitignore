@@ -1,0 +1,39 @@
+####################################################
+# .gitignore Configuration File
+####################################################
+# This file specifies intentionally untracked files that Git should ignore.
+# Files already tracked by Git are not affected by this configuration.
+
+####################################################
+# IDE and Editor Directories
+# Purpose: Ignore settings and configurations specific to development environments.
+# Use: Prevents sharing of personal IDE settings and workspace configurations.
+####################################################
+.idea/
+.vscode/
+
+####################################################
+# Dependency Directories
+# Purpose: Exclude package directories.
+# Use: Avoids version conflicts and reduces repository size by not tracking installed packages.
+####################################################
+node_modules/
+
+####################################################
+# Build Directories
+# Purpose: Ignore build output of the project.
+# Use: Keeps the repository clean of build results which are typically regenerated.
+####################################################
+build/
+logs/
+
+####################################################
+# Environment Configuration Files
+# Purpose: Exclude environment-specific settings.
+# Use: Prevents sensitive information like passwords, API keys, or secret tokens from being exposed.
+####################################################
+.env
+.env.development
+.env.staging
+.env.production
+.env.test
