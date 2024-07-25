@@ -80,7 +80,17 @@
 
 <br/>
 <br/>
+<br/>
 
+
+<!-- project details text start -->
+<div align="center"> 
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=21&lines=PROJECT+DETAILS" alt="PROJECT DETAILS" />
+</div>
+<!-- project details text end -->
+
+<hr/>
+<br/>
 
 <!-- open source projects details start -->
 <div align="center">
@@ -96,13 +106,13 @@
 
 <br/>
 <br/>
+<br/>
 
 
 <!-- weekly progress status start -->
 <div align="center">
-    <div align="center"> 
-        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=205&height=21&lines=WEEKLY+STATISTICS" alt="WEEKLY STATISTICS />
-    </div>
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=205&height=21&lines=WEEKLY+STATISTICS" alt="WEEKLY STATISTICS" />
+    <hr>
     <br>
     <img alt="most used languages summary" src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
@@ -114,6 +124,7 @@
 
 <br/>
 <br/>
+<br/>
 
 
 <!-- connect with me start -->
@@ -123,6 +134,7 @@
 </div>
 <!-- feel free to contact me text end -->
 
+<hr/>
 <br/>
 
 <!-- social media links start -->
