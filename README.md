@@ -98,17 +98,12 @@
 <br/>
 
 
-<!-- weekly statistics text start -->
-<div align="center"> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=205&height=21&lines=WEEKLY+STATISTICS" alt="WEEKLY STATISTICS />
-</div>
-<!-- weekly statistics text end -->
-
-<br>
-
-
 <!-- weekly progress status start -->
 <div align="center">
+    <div align="center"> 
+        <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=205&height=21&lines=WEEKLY+STATISTICS" alt="WEEKLY STATISTICS />
+    </div>
+    <br>
     <img alt="most used languages summary" src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=montasim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=false" />
     <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
         <img src="https://github-readme-stats-mnex.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="Wakatime weekly coding actitvity languages" />
