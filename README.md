@@ -1,14 +1,26 @@
-<!-- build with badges start -->
-<div align="center">
-    <img style="margin-right: 6px" alt="uses badges badge" src="https://forthebadge.com/images/badges/uses-badges.svg">
-    <img style="margin-right: 6px" alt="build with markdown badge" src="https://forthebadge.com/images/badges/made-with-markdown.svg">
-    <img style="margin-right: 6px" alt="build with love badge" src="https://forthebadge.com/images/badges/built-with-love.svg">
-</div>
-<!-- build with badges end -->
+# Montasim Project Status Dashboard
 
+> A Markdown-only snapshot of selected projects, repository activity, live-site availability, and coding statistics.
 
-<br/>
+[![Repository status](https://img.shields.io/badge/status-manually%20maintained-orange)](#status-and-limitations)
+[![GitHub profile](https://img.shields.io/badge/GitHub-montasim-181717?logo=github)](https://github.com/montasim)
+[![Support on SupportKori](https://img.shields.io/badge/Support_on-SupportKori-00B8B5)](https://www.supportkori.com/montasim)
 
+This repository collects operational signals for a selected set of Montasim's frontend and backend projects. The tables use GitHub and website-status badges so readers can move from a high-level portfolio snapshot to source code, activity, and live deployments.
+
+**[Browse the project table](#selected-projects) · [Open the GitHub profile](https://github.com/montasim) · [Report stale information](https://github.com/montasim/status/issues)**
+
+## What this dashboard shows
+
+- Links to selected frontend and backend repositories
+- GitHub stars, forks, repository size, and last-commit signals
+- Website availability badges for projects with a recorded live URL
+- Expanded repository cards for selected open-source work
+- Third-party language and WakaTime summary cards
+
+The dashboard does not query or verify project health itself. Badge providers calculate the displayed values when GitHub renders this README.
+
+## Selected projects
 
 <!-- projects summary start -->
 <table align="center">
@@ -575,6 +587,8 @@
 <br/>
 
 
+## Expanded project cards
+
 <!-- project details text start -->
 <div align="center"> 
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=180&height=21&lines=PROJECT+DETAILS" alt="PROJECT DETAILS" />
@@ -704,6 +718,8 @@
 <br/>
 
 
+## Activity snapshots
+
 <!-- weekly progress status start -->
 <div align="center">
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=205&height=21&lines=WEEKLY+STATISTICS" alt="WEEKLY STATISTICS" />
@@ -723,61 +739,45 @@
 <br/>
 
 
-<!-- connect with me start -->
-<!-- feel free to contact me text start -->
-<div align="center"> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-<!-- feel free to contact me text end -->
+## Maintaining the dashboard
 
-<hr/>
-<br/>
+This repository has no application code, package dependencies, generator, or workflow. To update it:
 
-<!-- social media links start -->
-<table align="center">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
-                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/montasim">
-                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer" title="montasim-dev.web.app">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://x.com/montasimmamun" target="_blank" rel="noopener noreferrer" title="https://x.com/montasimmamun">
-                    <img loading="lazy" alt="x icon" src="https://cdn.simpleicons.org/x/EB008B" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
+1. Edit `README.md` directly.
+2. Add or remove both the summary-table row and expanded project card when changing the selected set.
+3. Verify repository, activity, badge, and live-site URLs.
+4. Prefer production or CI signals over decorative badges.
+5. Preview the result with GitHub-flavored Markdown before merging.
 
+## Status and limitations
 
-<br/>
-<br/>
+- The selected-project list is curated manually and is not a complete inventory of the GitHub account.
+- Repository metrics are loaded from Shields.io and GitHub endpoints at render time.
+- Live-site badges report endpoint reachability, not feature correctness, security, or maintenance quality.
+- The expanded cards and live URLs are hard-coded and can become stale when repositories or deployments move.
+- Language and WakaTime cards depend on a third-party `github-readme-stats` deployment and WakaTime data availability.
+- There is no automated link check, CI workflow, release process, or license file.
+
+Use each linked project's own README, issue tracker, releases, and CI as the authoritative source for its current behavior.
+
+## Support and corrections
+
+Use [GitHub Issues](https://github.com/montasim/status/issues) to report an outdated repository link, incorrect project classification, stale deployment, or broken badge. Include the affected project and the replacement URL when known.
+
+For sensitive concerns, contact [Montasim privately](mailto:montasimmamun@gmail.com).
+
+## Contributing
+
+Focused metadata and accessibility corrections are welcome. Keep project facts evidence-based and avoid adding a project solely to inflate portfolio metrics. This repository does not currently include dedicated contribution, code-of-conduct, or security-policy files.
+
+## Funding
+
+Optional support for maintaining public projects is available through [SupportKori](https://www.supportkori.com/montasim). Reporting stale links and improving accessible descriptions are equally useful.
+
+## Author
+
+Maintained by [Montasim](https://github.com/montasim). You can also connect through [LinkedIn](https://www.linkedin.com/in/montasim) or visit the [portfolio](https://montasim-dev.web.app/).
+
+## License
+
+No license file is present. The dashboard is publicly viewable, but permission to copy, modify, or redistribute its contents is not granted unless the maintainer adds explicit license terms. Linked project names, badges, and third-party statistics remain subject to their respective owners and providers.
