@@ -216,7 +216,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/donate-today?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/donate-today?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://montasim.github.io/donate-today/" target="_blank" rel="noopener noreferrer">
@@ -251,7 +251,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/donate-today?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/eat-fresh?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://montasim.github.io/eat-fresh/" target="_blank" rel="noopener noreferrer">
@@ -286,12 +286,10 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/donate-today?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/TechnoFire?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
-                <a href="" target="_blank" rel="noopener noreferrer">
-                    <img alt="GitHub website status badge" src="https://img.shields.io/website?down_color=EB008B&down_message=offline&up_color=00B8B5&up_message=online&url=https%3A%2F%2F"/>
-                </a>
+                Not deployed
             </td>
         </tr>
         <!-- project TechnoFire end -->
@@ -358,7 +356,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://countries-states-cities.vercel.app/api/v1/countries" target="_blank" rel="noopener noreferrer">
@@ -393,7 +391,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/library-management-system-server?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://library-management-system-server-green.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -428,7 +426,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/school-management-backend?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://school-management-backend-ashen.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -463,7 +461,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/inventory-management-system-server?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://inventory-management-system-server.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -498,7 +496,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/a-coders-diary-server?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://a-coders-diary.herokuapp.com/" target="_blank" rel="noopener noreferrer">
@@ -533,7 +531,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/manufacturer-website-server?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://secret-dusk-46242.herokuapp.com/" target="_blank" rel="noopener noreferrer">
@@ -568,7 +566,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
                 </a>
             </td>
             <td>
-                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/countries-states-cities?style=social?labelColor=EB008B&color=00B8B5"/>
+                <img alt="GitHub repo size badge" src="https://img.shields.io/github/repo-size/montasim/warehouse-management-server?style=social&labelColor=EB008B&color=00B8B5"/>
             </td>
             <td>
                 <a href="https://posdash-server.herokuapp.com/" target="_blank" rel="noopener noreferrer">
@@ -665,9 +663,6 @@ The dashboard does not query or verify project health itself. Badge providers ca
         </tr>
         <tr align="center">
             <th align="center">
-                <a href="https://github.com/montasim/countries-states-cities"  target="_blank" rel="noopener noreferrer">
-                    <img align="right" width="396" src="https://github-readme-stats-mnex.vercel.app/api/pin/?username=montasim&repo=countries-states-cities&theme=react&bg_color=0D1117&border_color=61dafb&hide_border=false" alt="repository badge" />
-                </a>
             </th>
             <th align="center">
                 <a href="https://github.com/montasim/library-management-system-server"  target="_blank" rel="noopener noreferrer">
@@ -741,7 +736,7 @@ The dashboard does not query or verify project health itself. Badge providers ca
 
 ## Maintaining the dashboard
 
-This repository has no application code, package dependencies, generator, or workflow. To update it:
+This repository has no application code, package dependencies, or generator. A GitHub Actions workflow deploys the static repository to Pages after changes reach `main`. To update it:
 
 1. Edit `README.md` directly.
 2. Add or remove both the summary-table row and expanded project card when changing the selected set.
